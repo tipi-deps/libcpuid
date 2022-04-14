@@ -1,0 +1,4 @@
+/contrib/**
+
+# we unignore these selectively on windows with MSVC!
+*.asm
